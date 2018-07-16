@@ -1,8 +1,8 @@
-Origin: Antique's Repo
-Label: Antique's Official Repo
+Origin: System32yeah's Repo
+Label: System32yeah's Official Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: "iOS the way it's meant to be"
+Description: My cydia repo

@@ -1,7 +1,7 @@
 Package: com.System32yeah.boxy3
 Name: boxy3 
 Version: 3.3.3-1.debug
-Size: 2554000
+Size:2554000
 Architecture: iphoneos-arm
 Description: An awesome mobilesubstrate Tweak 
 Maintainer: System32yeah <email@provider.com> 
@@ -15,7 +15,7 @@ Filename: debs//boxy3.deb
 Package: com.System32yeah.windmill 
 Name: windmill 
 Version: 1.0 
-Size: 43000 
+Size:43000 
 Architecture: iphoneos-arm
 Description: An awesome mobilesubstrate Tweak 
 Maintainer: System32yeah <email@provider.com>
